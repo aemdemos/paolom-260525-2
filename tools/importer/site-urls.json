@@ -1,0 +1,820 @@
+{
+  "originUrl": "https://unifyrare.com",
+  "lastCrawled": "https://unifyrare.com/",
+  "urls": [
+    {
+      "url": "https://unifyrare.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "56b87bb989bcfbf5bb0dfcc246bf63a564ff72f0"
+    },
+    {
+      "url": "https://unifyrare.com/404",
+      "source": "SITEMAPS",
+      "targetPath": "/404",
+      "id": "62d1a7bc6c3c325f5362ea051a47cc4a523c6ab2"
+    },
+    {
+      "url": "https://unifyrare.com/en",
+      "source": "SITEMAPS",
+      "targetPath": "/en",
+      "id": "2fdd27bff441edad4e969f477500cc4f57d8477b"
+    },
+    {
+      "url": "https://unifyrare.com/en/404",
+      "source": "SITEMAPS",
+      "targetPath": "/en/404",
+      "id": "444bc4928b9eceb533203d798f4fa6561d73386b"
+    },
+    {
+      "url": "https://unifyrare.com/en/ahus/about-ahus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ahus/about-ahus",
+      "id": "8e4973a7b8c2d12db05c2bc930848a807d0eb1f5"
+    },
+    {
+      "url": "https://unifyrare.com/en/ahus/diagnosing-ahus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ahus/diagnosing-ahus",
+      "id": "eb79d5a809710f86aad5d605484d48a1d9d57455"
+    },
+    {
+      "url": "https://unifyrare.com/en/ahus/living-with-ahus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ahus/living-with-ahus",
+      "id": "13a2d855853594fbc84b524cf4da2da18189e1e1"
+    },
+    {
+      "url": "https://unifyrare.com/en/c5-inhibisyonu",
+      "source": "SITEMAPS",
+      "targetPath": "/en/c5-inhibisyonu",
+      "id": "11a6ec4de97442d3a6b81c78adfa72c2e7ccaf80"
+    },
+    {
+      "url": "https://unifyrare.com/en/ean-2024",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ean-2024",
+      "id": "71b98e871b268218c9b85477910f40fe7b1cac9b"
+    },
+    {
+      "url": "https://unifyrare.com/en/ean-2024/satellite-session1",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ean-2024/satellite-session1",
+      "id": "0c609bc04152141c1a387179275d9cf2f420717f"
+    },
+    {
+      "url": "https://unifyrare.com/en/ean-2024/satellite-session2",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ean-2024/satellite-session2",
+      "id": "80caaebfd89b775a9caaf5fb58061fa3a5c17302"
+    },
+    {
+      "url": "https://unifyrare.com/en/ean-2024/satellite-session3",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ean-2024/satellite-session3",
+      "id": "68053e16d2ca4f6f4b475b59656c3b63a3f50bf4"
+    },
+    {
+      "url": "https://unifyrare.com/en/gmg-exercise-videos",
+      "source": "SITEMAPS",
+      "targetPath": "/en/gmg-exercise-videos",
+      "id": "e8fcb93e68c45b551c4c09bb0b3d038ba1d9c6f4"
+    },
+    {
+      "url": "https://unifyrare.com/en/gmg/diagnosing-gmg",
+      "source": "SITEMAPS",
+      "targetPath": "/en/gmg/diagnosing-gmg",
+      "id": "e6734d4cdb261b293e221a36655825553a095586"
+    },
+    {
+      "url": "https://unifyrare.com/en/gmg/living-gmg",
+      "source": "SITEMAPS",
+      "targetPath": "/en/gmg/living-gmg",
+      "id": "dcc9125a028bf6edc98a7c09a13a04ffd04a0469"
+    },
+    {
+      "url": "https://unifyrare.com/en/gmg/managing-gmg",
+      "source": "SITEMAPS",
+      "targetPath": "/en/gmg/managing-gmg",
+      "id": "bdf7a82cc187c9c19e3492a45990a03fdc6e087d"
+    },
+    {
+      "url": "https://unifyrare.com/en/gmg/understanding-gmg",
+      "source": "SITEMAPS",
+      "targetPath": "/en/gmg/understanding-gmg",
+      "id": "b37c78b12b909b5146abdb88bd40914471a3e296"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp",
+      "id": "744d6ecebd000d0ef65c82220ae40ab6c6dbfc9a"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus",
+      "id": "4ada261b6bf194446871deda953c98e2998008d0"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/diagnosing-ahus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/diagnosing-ahus",
+      "id": "2128adb6e4f07d0608bcf6827b48efb3f79dc20a"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/living-with-ahus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/living-with-ahus",
+      "id": "4268f15fa0bd278b846df8e39c138581cda10d33"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/symptoms",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/symptoms",
+      "id": "0ef9cf5af8a0fa260290e19c7a40f9315f99a653"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/about-ultomiris",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/about-ultomiris",
+      "id": "06c68582e30c9f5e095b49bd701d59fdaef8acc0"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/dosing-and-administration",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/dosing-and-administration",
+      "id": "a61d772494dba93b933b00bdb5756e869933a19c"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/dosing-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/dosing-calculator",
+      "id": "cc2c385f135269512c93ee6d6462d2ed16a03b71"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/efficacy",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/efficacy",
+      "id": "e9c6a41e98ae7fed78512877e44077acf6ce445b"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/moa",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/moa",
+      "id": "f9290d68eec7933e680f9380bd58005265a3551d"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/resources",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/resources",
+      "id": "8c1aa3f7b910851c33cd2f87a321e4bbf07fac88"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/safety",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/safety",
+      "id": "cea93356c4cd82b915ce9f8abd48036adc87a5af"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/study-design",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/study-design",
+      "id": "04f7ca806fb07c339b66baa63420416a1af8b597"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/ultomiris/treatment-goals",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/ultomiris/treatment-goals",
+      "id": "616cb134fe0bd70934c50fc77c366503e3574a3f"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/ahus/what-is-ahus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/ahus/what-is-ahus",
+      "id": "4cb97b15fd6d8aa7dbb6ca28f558a0cd51ce14eb"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/events/myology-2024",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/events/myology-2024",
+      "id": "af62f67f2738caec3ca8a09ba6090188c2ee3ec0"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/events/wms-2024",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/events/wms-2024",
+      "id": "e8a1578be9810eac0132cef1f7af63ae5326d05b"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/diagnosis",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/diagnosis",
+      "id": "dea0bcec44a844aee1fa88d8b4ffad1c0584d375"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/guidelines-and-recommendations",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/guidelines-and-recommendations",
+      "id": "655f6715aa0b4011a995957123a35cd0aacae14f"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/incidence-and-risk-factors",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/incidence-and-risk-factors",
+      "id": "f1e2917629e9363b5e7ad16cb853df43c05f2754"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/living-with-gmg",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/living-with-gmg",
+      "id": "f8b456c8fa102cbab5a66f827f3444c83ad7550d"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/mechanism-of-disease",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/mechanism-of-disease",
+      "id": "6db0b6fdb8cdfacdcd3c8c959b83cb598bd5650d"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/patient-stories",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/patient-stories",
+      "id": "0c968b310378019e9e134d22a20ef43cb7ae6fce"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/prognosis",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/prognosis",
+      "id": "54750bd0e871a1eec4692e0da6079966469ab629"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/symptoms",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/symptoms",
+      "id": "4d54e950ed44775c6bd9ee7b1e022c1324315a4f"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/treatment-types",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/treatment-types",
+      "id": "623fd963a0be6c52abf888c8b1f9d1da89d51939"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/gmg/what-is-gmg",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/gmg/what-is-gmg",
+      "id": "e03b96db56e0b6d0ae9202960f67639ee9617e2e"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/hpp/about-hpp-and-low-alp",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/hpp/about-hpp-and-low-alp",
+      "id": "c2954803ee129ea8c1b275fdb4113d949667aabb"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/hpp/alp-hpp-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/hpp/alp-hpp-calculator",
+      "id": "55570181ba5593636cf6b7a6806a9df698b8ca2d"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/hpp/burden-of-disease",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/hpp/burden-of-disease",
+      "id": "c65e80e3da9d302df9e81557e39c696f12c1f46d"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/hpp/signs-and-symptoms",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/hpp/signs-and-symptoms",
+      "id": "2b7dcb8dc4d19cc9cd5ccc0df1299cb17d8e9692"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/hpp/what-is-hpp",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/hpp/what-is-hpp",
+      "id": "3f5c6b3d377385528dc3e6b92633366098f3ad55"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nf1/diagnosis-and-management",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nf1/diagnosis-and-management",
+      "id": "119b04cbfe7ef13f25a1b18303b9424a7976d975"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nf1/impact-of-nf1-pn",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nf1/impact-of-nf1-pn",
+      "id": "c08ae62b084c78c2191151615c55887feebc944f"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nf1/understanding-nf1",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nf1/understanding-nf1",
+      "id": "1880d0b24ce7d052eaa37ab5cfdec7cee6d9bbd6"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/burden-of-disease",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/burden-of-disease",
+      "id": "524032db6f95ba38dcb5863efa730b2d1c76d098"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/clinical-characteristics",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/clinical-characteristics",
+      "id": "6fd0139a5b399f3059fd49b4cc0cd365c5a81abc"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/diagnosis",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/diagnosis",
+      "id": "fa37cd5dc1ecbd1dafaf2f28a689d90459e3dd78"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/disease-progression",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/disease-progression",
+      "id": "603ebf2ed1ce1bbdcec7862c19ba33474bc9caae"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/incidence-and-prevalence",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/incidence-and-prevalence",
+      "id": "1fb04f7ed472c0d969d5779d66544edccdd99664"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/living-with-nmosd",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/living-with-nmosd",
+      "id": "4b2b5d62c9d6f11ca51701f77e674858da014a8b"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/management",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/management",
+      "id": "799ec9c056218b835056b0565b63d6916863f026"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/mechanism-of-disease",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/mechanism-of-disease",
+      "id": "4fd5997d9733f1087343f98cbd3ddcdeac722298"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/patient-stories",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/patient-stories",
+      "id": "b9701a6d68608422c8042528e87517e210761648"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/risk-factors",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/risk-factors",
+      "id": "dbca75b2a4d34252eff9bb365c19c00d569bd548"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/nmosd/what-is-nmosd",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/nmosd/what-is-nmosd",
+      "id": "2f70c48c5f02a9ed4f62705ffbfa8b059875f046"
+    },
+    {
+      "url": "https://unifyrare.com/en/hcp/sample-form",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hcp/sample-form",
+      "id": "be3fdeb9ef8441ac8ddfa51f2423f2325613eb46"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d",
+      "id": "e78400ca9661c70515a61231d6faa19f3e521315"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/a-simple-guide-to-macronutrients",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/a-simple-guide-to-macronutrients",
+      "id": "7b03c601a4c20e2143813ecf0f9891783d710cbf"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/alcohol-and-drug-misuse",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/alcohol-and-drug-misuse",
+      "id": "3a336b73afedc5261dfdaceb263201669bd48f07"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/complications-associated-with-lal-d",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/complications-associated-with-lal-d",
+      "id": "e389484aeee6523e80eb38c18de23f640f05444f"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/dealing-with-diagnosis",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/dealing-with-diagnosis",
+      "id": "d4f0d78c006ca708afa47e9511d61ac6e498d5da"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/food-related-anxiety",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/food-related-anxiety",
+      "id": "2462c7c6c7845edcb5e8bd30ad66ffd7718707be"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/healthy-eating-when-dining-out",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/healthy-eating-when-dining-out",
+      "id": "7beb33053c0ad4755769efc6bdc1311be7cef74e"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/infants-paediatrics-and-adults-with-lal-d",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/infants-paediatrics-and-adults-with-lal-d",
+      "id": "ed93bf596d425ea2529ec59a305c91b2b289b174"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/lal-d-cookbook",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/lal-d-cookbook",
+      "id": "3b7f4e689be95be0ace6a42cf7d86f19f204e620"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/managing-lal-d",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/managing-lal-d",
+      "id": "c0db8ea6d7f108a13ff087f894194d0c40102e1a"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/pregnancy-and-diet",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/pregnancy-and-diet",
+      "id": "3763abb0628bdaa90690555c0eb56e656de9c936"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/sport-and-exercise",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/sport-and-exercise",
+      "id": "046de8c7fb2b19cc6c254f685319430876835fde"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/the-lal-d-friendly-diet-for-adults",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/the-lal-d-friendly-diet-for-adults",
+      "id": "418ca0a4ec9293344fb5f50594d2541f761f6350"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/the-lal-d-friendly-diet-for-children-and-adolescents",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/the-lal-d-friendly-diet-for-children-and-adolescents",
+      "id": "ae7f165a343cb42040ec9c870d8768288f27c8ac"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/tips-for-maintaining-your-lal-d-diet",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/tips-for-maintaining-your-lal-d-diet",
+      "id": "70dec6e6f0474c4bfdd7cd04a5deea96e76dc781"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/what-are-the-signs-and-symptoms",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/what-are-the-signs-and-symptoms",
+      "id": "7e7410910846eaa3d48f03862e577fdebae4f0de"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/what-is-a-low-lipid-diet",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/what-is-a-low-lipid-diet",
+      "id": "b4fb971783e404b1b8d6b28097b0c5fd166edfda"
+    },
+    {
+      "url": "https://unifyrare.com/en/lal-d/what-is-lal-d",
+      "source": "SITEMAPS",
+      "targetPath": "/en/lal-d/what-is-lal-d",
+      "id": "201979195fcc7df0810dc796d2a1f0854508a69a"
+    },
+    {
+      "url": "https://unifyrare.com/en/myology-2024",
+      "source": "SITEMAPS",
+      "targetPath": "/en/myology-2024",
+      "id": "cdb8ab5b8c8e67318fa451324aedfc9ad0e53d33"
+    },
+    {
+      "url": "https://unifyrare.com/en/nadir-baglantilar",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nadir-baglantilar",
+      "id": "894617b5e0b8cec166e894fafcb95f67a0d422ae"
+    },
+    {
+      "url": "https://unifyrare.com/en/nf1/caring-for-a-loved-one",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nf1/caring-for-a-loved-one",
+      "id": "5fa77e60b78e67c28c8e4882e6da4defa87dee52"
+    },
+    {
+      "url": "https://unifyrare.com/en/nf1/living-with-nf1",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nf1/living-with-nf1",
+      "id": "c5dd9329ce12c7c2bba14ebd272d99a6b6e7e561"
+    },
+    {
+      "url": "https://unifyrare.com/en/nf1/managing-nf1",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nf1/managing-nf1",
+      "id": "807c41d7ace6d787eb545fa498ce5d81cb2f0739"
+    },
+    {
+      "url": "https://unifyrare.com/en/nf1/nf1-resources",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nf1/nf1-resources",
+      "id": "9e65469be38753ed760ba2cb3d4bd80c8fe2b1bc"
+    },
+    {
+      "url": "https://unifyrare.com/en/nf1/understanding-nf1",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nf1/understanding-nf1",
+      "id": "da1e509a5a80847a561c2bfa1ae3af2a4b3e242a"
+    },
+    {
+      "url": "https://unifyrare.com/en/nmosd-mg-scientific-exchange",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nmosd-mg-scientific-exchange",
+      "id": "04894da144063e5cf548cee4d2d51c4f898564a0"
+    },
+    {
+      "url": "https://unifyrare.com/en/nmosd/diagnosing-nmosd",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nmosd/diagnosing-nmosd",
+      "id": "bd146f453b5c280f9bdd984968dabf00c72c31ba"
+    },
+    {
+      "url": "https://unifyrare.com/en/nmosd/living-nmosd",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nmosd/living-nmosd",
+      "id": "0577ac6a661e8ea806684f5093d073e40a9c14e1"
+    },
+    {
+      "url": "https://unifyrare.com/en/nmosd/managing-nmosd",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nmosd/managing-nmosd",
+      "id": "2c1dcf099c401166e676b6d48b229bcd5352f7b5"
+    },
+    {
+      "url": "https://unifyrare.com/en/nmosd/understanding-nmosd",
+      "source": "SITEMAPS",
+      "targetPath": "/en/nmosd/understanding-nmosd",
+      "id": "069c8a393b8328b5833b8004faf2f25e9a883f52"
+    },
+    {
+      "url": "https://unifyrare.com/en/uzman-bakis",
+      "source": "SITEMAPS",
+      "targetPath": "/en/uzman-bakis",
+      "id": "8fdaef7592513074dddc0e84618bcd98e2db5607"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "http://unifyrare.com",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/"
+    },
+    {
+      "url": "http://unifyrare.com/404",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/404"
+    },
+    {
+      "url": "http://unifyrare.com/en",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en"
+    },
+    {
+      "url": "http://unifyrare.com/en/404",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/404"
+    },
+    {
+      "url": "http://unifyrare.com/en/ahus/about-ahus",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/ahus/about-ahus"
+    },
+    {
+      "url": "http://unifyrare.com/en/ahus/diagnosing-ahus",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/ahus/diagnosing-ahus"
+    },
+    {
+      "url": "http://unifyrare.com/en/ahus/living-with-ahus",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/ahus/living-with-ahus"
+    },
+    {
+      "url": "http://unifyrare.com/en/c5-inhibisyonu",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/c5-inhibisyonu"
+    },
+    {
+      "url": "http://unifyrare.com/en/gmg-exercise-videos",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/gmg-exercise-videos"
+    },
+    {
+      "url": "http://unifyrare.com/en/gmg/diagnosing-gmg",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/gmg/diagnosing-gmg"
+    },
+    {
+      "url": "http://unifyrare.com/en/gmg/living-gmg",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/gmg/living-gmg"
+    },
+    {
+      "url": "http://unifyrare.com/en/gmg/managing-gmg",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/gmg/managing-gmg"
+    },
+    {
+      "url": "http://unifyrare.com/en/gmg/understanding-gmg",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/gmg/understanding-gmg"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/about-ultomiris",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/about-ultomiris"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/dosing-and-administration",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/dosing-and-administration"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/dosing-calculator",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/dosing-calculator"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/efficacy",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/efficacy"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/moa",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/moa"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/resources",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/resources"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/safety",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/safety"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/study-design",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/study-design"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/ahus/ultomiris/treatment-goals",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/ahus/ultomiris/treatment-goals"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/events/myology-2024",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/events/myology-2024"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/events/wms-2024",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/events/wms-2024"
+    },
+    {
+      "url": "http://unifyrare.com/en/hcp/sample-form",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/hcp/sample-form"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/a-simple-guide-to-macronutrients",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/a-simple-guide-to-macronutrients"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/alcohol-and-drug-misuse",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/alcohol-and-drug-misuse"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/complications-associated-with-lal-d",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/complications-associated-with-lal-d"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/dealing-with-diagnosis",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/dealing-with-diagnosis"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/food-related-anxiety",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/food-related-anxiety"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/healthy-eating-when-dining-out",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/healthy-eating-when-dining-out"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/infants-paediatrics-and-adults-with-lal-d",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/infants-paediatrics-and-adults-with-lal-d"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/lal-d-cookbook",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/lal-d-cookbook"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/managing-lal-d",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/managing-lal-d"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/pregnancy-and-diet",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/pregnancy-and-diet"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/sport-and-exercise",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/sport-and-exercise"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/the-lal-d-friendly-diet-for-adults",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/the-lal-d-friendly-diet-for-adults"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/the-lal-d-friendly-diet-for-children-and-adolescents",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/the-lal-d-friendly-diet-for-children-and-adolescents"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/tips-for-maintaining-your-lal-d-diet",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/tips-for-maintaining-your-lal-d-diet"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/what-are-the-signs-and-symptoms",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/what-are-the-signs-and-symptoms"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/what-is-a-low-lipid-diet",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/what-is-a-low-lipid-diet"
+    },
+    {
+      "url": "http://unifyrare.com/en/lal-d/what-is-lal-d",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/lal-d/what-is-lal-d"
+    },
+    {
+      "url": "http://unifyrare.com/en/myology-2024",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/myology-2024"
+    },
+    {
+      "url": "http://unifyrare.com/en/nadir-baglantilar",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nadir-baglantilar"
+    },
+    {
+      "url": "http://unifyrare.com/en/nf1/caring-for-a-loved-one",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nf1/caring-for-a-loved-one"
+    },
+    {
+      "url": "http://unifyrare.com/en/nf1/living-with-nf1",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nf1/living-with-nf1"
+    },
+    {
+      "url": "http://unifyrare.com/en/nf1/managing-nf1",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nf1/managing-nf1"
+    },
+    {
+      "url": "http://unifyrare.com/en/nf1/nf1-resources",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nf1/nf1-resources"
+    },
+    {
+      "url": "http://unifyrare.com/en/nf1/understanding-nf1",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nf1/understanding-nf1"
+    },
+    {
+      "url": "http://unifyrare.com/en/nmosd-mg-scientific-exchange",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nmosd-mg-scientific-exchange"
+    },
+    {
+      "url": "http://unifyrare.com/en/nmosd/diagnosing-nmosd",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nmosd/diagnosing-nmosd"
+    },
+    {
+      "url": "http://unifyrare.com/en/nmosd/living-nmosd",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nmosd/living-nmosd"
+    },
+    {
+      "url": "http://unifyrare.com/en/nmosd/managing-nmosd",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nmosd/managing-nmosd"
+    },
+    {
+      "url": "http://unifyrare.com/en/nmosd/understanding-nmosd",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/nmosd/understanding-nmosd"
+    },
+    {
+      "url": "http://unifyrare.com/en/uzman-bakis",
+      "status": "301 Moved Permanently Redirect: https://unifyrare.com/en/uzman-bakis"
+    },
+    {
+      "url": "https://unifyrare.entornos.dev/en/hcp/gmg/awareness-month",
+      "status": "401 Unauthorized"
+    }
+  ]
+}
